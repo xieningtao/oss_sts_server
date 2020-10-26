@@ -1,8 +1,8 @@
 var ALY = require('aliyun-sdk');
 
 var push = new ALY.PUSH({
-      accessKeyId: 'LTAIkd3XPg97uTID',
-      secretAccessKey: 'Rd1pjbJ6SAPkdWl3zBLZyBUbgu9pPy',
+      accessKeyId: '222222',
+      secretAccessKey: '11111111',
       endpoint: 'http://cloudpush.aliyuncs.com',
       apiVersion: '2016-08-01'
     });
